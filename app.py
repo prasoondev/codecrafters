@@ -71,7 +71,7 @@ intensity_regressor.fit(X, data['Intensity'])
 # OldMax = 6
 # NewMin = 1
 # NewMax = 10
-# kw_model = KeyBERT()
+kw_model = KeyBERT()
 # def scale_value(OldValue):
 #     OldRange = (OldMax - OldMin)  
 #     NewRange = (NewMax - NewMin)  
