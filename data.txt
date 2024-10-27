@@ -1,0 +1,9 @@
+i lost my job,Negative,{'Keyword': 'my job', 'Score': 0.5376},Career Confusion,54.87%,5.725
+i want to kill myself,Negative,{'Keyword': 'kill myself', 'Score': 0.7984},Stress,30.92%,4.6
+im very very sad,Negative,{'Keyword': 'very sad', 'Score': 0.7581},Depression,23.95%,5.5
+i want to kill myself,Negative,{'Keyword': 'kill myself', 'Score': 0.7984},Stress,30.92%,4.534023178239436
+im very very sad,Negative,{'Keyword': 'very sad', 'Score': 0.7581},Depression,23.95%,5.5
+i want to kill myself,Negative,{'Keyword': 'kill myself', 'Score': 0.7984},Stress,30.92%,4.6
+i lost my job,Negative,{'Keyword': 'my job', 'Score': 0.5376},Career Confusion,54.87%,5.725
+im very very sad,Negative,{'Keyword': 'very sad', 'Score': 0.7581},Depression,23.95%,5.5
+i want to kill myself,Negative,{'Keyword': 'kill myself', 'Score': 0.7984},Stress,30.92%,3.6999999999999984
